@@ -9,8 +9,8 @@ title = "percassion"
 
 [params]
   defaultTheme = "dark"
-  description = "Example site for hugo-theme-gallery"
-  title = "My Gallery"
+  description = "a marriage of percy and cassie"
+  title = "percassion"
   [params.author]
     email = "hi@percassion.com"
     name = "percy & cassie"
