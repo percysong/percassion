@@ -51,4 +51,12 @@ jobs:
         shell: bash
         run: |
           tcb login --apiKeyId ${{ secrets.QCLOUDAPIKEYID }} --apiKey ${{ secrets.QCLOUDAPIKEY }}
-          tcb hosting deploy ./ -e ${{ secrets.QCLOUDENVID }}          
+          tcb hosting deploy ./ -e ${{ secrets.QCLOUDENVID }}      
+
+      - uses: actions/upload-artifact@v2
+        with:
+          name: Public Files
+          path: public/
+          
+      - name: Done
+        run: echo Done
