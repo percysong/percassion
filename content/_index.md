@@ -1,12 +1,12 @@
 ---
-description: An example site for hugo-theme-gallery. 
-#lastmod: 2023-07-05
+description: a marriage of percy and cassie.
+#lastmod: 2024-03-11
 title: percassion
-featured_image: yibin-2022-01.jpeg # default: first image in this directory
+featured_image: background.jpg 
 # featured_image on the home page is used for OpenGraph cards, etc.
 menus:
   main:
-    name: Home
+    name: home
     weight: -1
 # sub-galleries on list pages are sorted by date and weight (descending)
 ---
