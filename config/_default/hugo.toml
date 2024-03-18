@@ -1,25 +1,22 @@
-copyright = "© Your Name"
+copyright = "© percy & cassie"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy", "term"]
 enableRobotsTXT = true
 languageCode = "en"
 timeZone = "Europe/Berlin"
 timeout = "120s"
-title = "Gallery"
+title = "percassion"
 
 [params]
   defaultTheme = "dark"
   description = "Example site for hugo-theme-gallery"
   title = "My Gallery"
   [params.author]
-    email = "user@example.com"
-    name = "Your Name"
+    email = "hi@percassion.com"
+    name = "percy & cassie"
   [params.socialIcons]
-    facebook = "https://www.facebook.com/"
-    instagram = "https://www.instagram.com/"
-    github = "https://github.com/nicokaiser/hugo-theme-gallery/"
-    youtube = "https://www.youtube.com/"
-    email = "mailto:user@example.com"
+    instagram = "https://www.instagram.com/percysong"
+    email = "mailto:hi@percassion.com"
 
 [outputs]
   home = ["HTML", "RSS"]
@@ -42,7 +39,7 @@ title = "Gallery"
 
 [menu]
   [[menu.footer]]
-    name = "GitHub"
+    name = "theme"
     url = "https://github.com/nicokaiser/hugo-theme-gallery/"
     weight = 3
 

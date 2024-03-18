@@ -1,6 +1,6 @@
 ---
-description: Uncover the beauty of the animal kingdom through your screen.
-featured_image: dali-01.jpeg
+description: 
+featured_image: 
 keywords: [film]
 title: Guilin
 weight: 3

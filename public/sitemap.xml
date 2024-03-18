@@ -2,13 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/yibin/2022/</loc>
-  </url><url>
     <loc>https://example.org/chongqing/</loc>
   </url><url>
-    <loc>https://example.org/yibin/2024/</loc>
+    <loc>https://example.org/chongqing/2023/</loc>
+  </url><url>
+    <loc>https://example.org/yibin/2022/</loc>
   </url><url>
     <loc>https://example.org/dali/</loc>
+  </url><url>
+    <loc>https://example.org/yibin/2024/</loc>
   </url><url>
     <loc>https://example.org/guilin/</loc>
   </url><url>
