@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>percassion on Gallery</title>
+    <link>https://example.org/</link>
+    <description>Recent content in percassion on Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>user@example.com (Your Name)</managingEditor>
+    <webMaster>user@example.com (Your Name)</webMaster>
+    <copyright>© Your Name</copyright><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022</title>
+      <link>https://example.org/yibin/2022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
+      <guid>https://example.org/yibin/2022/</guid><media:content url="https://example.org/yibin/2022/yibin-2022-01_hu5e1b725b24bbb09e60efdbc6786f84e4_431086_900x600_fill_q75_catmullrom_smart1.jpeg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/yibin/2022/yibin-2022-01_hu5e1b725b24bbb09e60efdbc6786f84e4_431086_900x600_fill_q75_catmullrom_smart1.jpeg&quot; /&gt;
+          &lt;p&gt;Uncover the beauty of the animal kingdom through your screen.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Chongqing</title>
+      <link>https://example.org/chongqing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
+      <guid>https://example.org/chongqing/</guid><media:content url="https://example.org/chongqing/Chongqing-2023-22_hu1963ebdc23bc8cf347e926eb44fed8af_451218_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/chongqing/Chongqing-2023-22_hu1963ebdc23bc8cf347e926eb44fed8af_451218_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;p&gt;Uncover the beauty of the animal kingdom through your screen.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>2024</title>
+      <link>https://example.org/yibin/2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
+      <guid>https://example.org/yibin/2024/</guid><media:content url="https://example.org/yibin/2024/yibin-2024-01_hua04c227549212c9ea5acdf7017670162_509880_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/yibin/2024/yibin-2024-01_hua04c227549212c9ea5acdf7017670162_509880_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;p&gt;Uncover the beauty of the animal kingdom through your screen.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Dallit</title>
+      <link>https://example.org/dali/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
+      <guid>https://example.org/dali/</guid><media:content url="https://example.org/dali/dali-01_hu9e5c3115181899b948b61192cc472689_346497_900x600_fill_q75_catmullrom_smart1.jpeg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/dali/dali-01_hu9e5c3115181899b948b61192cc472689_346497_900x600_fill_q75_catmullrom_smart1.jpeg&quot; /&gt;
+          &lt;p&gt;Uncover the beauty of the animal kingdom through your screen.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Guilin</title>
+      <link>https://example.org/guilin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
+      <guid>https://example.org/guilin/</guid><media:content url="https://example.org/guilin/guilin-01_hu239f579fa1b8d8fd01e6dfc48499d814_354291_900x600_fill_q75_catmullrom_smart1.jpeg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/guilin/guilin-01_hu239f579fa1b8d8fd01e6dfc48499d814_354291_900x600_fill_q75_catmullrom_smart1.jpeg&quot; /&gt;
+          &lt;p&gt;Uncover the beauty of the animal kingdom through your screen.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Lijiang</title>
+      <link>https://example.org/lijiang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
+      <guid>https://example.org/lijiang/</guid><media:content url="https://example.org/lijiang/lijiang-01_hu13d23f9f8582082b26475f2db25d2ba0_280397_900x600_fill_q75_catmullrom_smart1.jpeg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/lijiang/lijiang-01_hu13d23f9f8582082b26475f2db25d2ba0_280397_900x600_fill_q75_catmullrom_smart1.jpeg&quot; /&gt;
+          &lt;p&gt;Uncover the beauty of the animal kingdom through your screen.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Shangri-La</title>
+      <link>https://example.org/shangri-la/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
+      <guid>https://example.org/shangri-la/</guid><media:content url="https://example.org/shangri-la/shangri-la-01_hu9b711c9dfc404a3e516a0e36c8adb904_404645_900x600_fill_q75_catmullrom_smart1.jpeg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/shangri-la/shangri-la-01_hu9b711c9dfc404a3e516a0e36c8adb904_404645_900x600_fill_q75_catmullrom_smart1.jpeg&quot; /&gt;
+          &lt;p&gt;Uncover the beauty of the animal kingdom through your screen.&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
