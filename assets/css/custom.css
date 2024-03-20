@@ -11,13 +11,12 @@
 
 @font-face {
     font-family: 'Oddval';
-    src: url('..assets/fonts/Oddval-SemiBold.eot');
-    src: url('..assets/fonts/Oddval-SemiBold.eot?#iefix') format('embedded-opentype'),
-        url('..assets/fonts/Oddval-SemiBold.woff2') format('woff2'),
-        url('..assets/fonts/Oddval-SemiBold.woff') format('woff'),
-        url('..assets/fonts/Oddval-SemiBold.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
+    src: url('static/fonts/Oddval-SemiBold.eot');
+    src: url('static/fonts/Oddval-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('static/fonts/Oddval-SemiBold.woff2') format('woff2'),
+        url('static/fonts/Oddval-SemiBold.woff') format('woff');
     font-display: swap;
 }
 
