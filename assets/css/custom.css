@@ -10,14 +10,14 @@
 }
 
 @font-face {
-    font-family: 'Oddval';
+    font-family: "Oddval";
     font-weight: 600;
     font-style: normal;
-    src: url('/fonts/Oddval-SemiBold.eot');
-    src: local(''),
-      url('/fonts/Oddval-SemiBold.eot?#iefix') format('embedded-opentype'),
-      url('/fonts/Oddval-SemiBold.woff2') format('woff2'),
-      url('/fonts/Oddval-SemiBold.woff') format('woff');
+    src: url("/fonts/Oddval-SemiBold.eot");
+    src: local(""),
+      url("/fonts/Oddval-SemiBold.eot?#iefix") format("embedded-opentype"),
+      url("/fonts/Oddval-SemiBold.woff2") format("woff2"),
+      url("/fonts/Oddval-SemiBold.woff") format("woff");
     font-display: swap;
 }
 
@@ -26,7 +26,7 @@ hgroup {
   margin: 2.2rem auto 3.6rem;
 
   h1 {
-    font-family: 'Oddival', sans-serif;
+    font-family: "Oddval", sans-serif;
     font-weight: 600;
     font-size: 1.875rem;
     line-height: 2.25rem;
@@ -43,7 +43,7 @@ hgroup {
 
 body > header {
   .btn {
-    font-family: 'Oddival', sans-serif;
+    font-family: "Oddval", sans-serif;
     font-weight: 600;
   }
 }
