@@ -12,11 +12,11 @@ title = "percassion"
   description = "a marriage of percy and cassie"
   title = "percassion"
   [params.author]
-    email = "hi@percassion.com"
+    email = "blog@percassion.com"
     name = "percy & cassie"
   [params.socialIcons]
     instagram = "https://www.instagram.com/percysong"
-    email = "mailto:hi@percassion.com"
+    email = "mailto:blog@percassion.com"
 
 [outputs]
   home = ["HTML", "RSS"]
@@ -24,7 +24,7 @@ title = "percassion"
   section = ["HTML"]
 
 [imaging]
-  quality = 75
+  quality = 100
   resampleFilter = "CatmullRom"
   [imaging.exif]
     disableDate = false

@@ -1,5 +1,5 @@
 ---
-description: Uncover the beauty of the animal kingdom through your screen.
+description: 
 featured_image: dali-01.jpeg
 keywords: [film]
 title: Dallit
