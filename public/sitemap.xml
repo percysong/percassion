@@ -22,8 +22,6 @@
   </url><url>
     <loc>https://example.org/about/</loc>
   </url><url>
-    <loc>https://example.org/imprint/</loc>
-  </url><url>
     <loc>https://example.org/</loc>
   </url>
 </urlset>

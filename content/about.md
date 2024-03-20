@@ -1,12 +1,11 @@
 ---
-layout: page
-rss_ignore: true
 title: about
+rss_ignore: true
+layout: page
 menu:
-  main:
-    weight: 90
+  footer:
+    weight: 1
 ---
-
 
 <img src="https://percassion-1318622621.cos.ap-nanjing.myqcloud.com/photo/background.jpeg" style="width:100%">
 

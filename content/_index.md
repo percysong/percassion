@@ -1,6 +1,5 @@
 ---
-description: a marriage of percy and cassie.
-#lastmod: 2024-03-11
+description: a marriage of percy and cassie
 title: percassion
 featured_image: background.jpg 
 # featured_image on the home page is used for OpenGraph cards, etc.

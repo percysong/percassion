@@ -9,6 +9,46 @@
   --text-2-dark: #868e96;
 }
 
+@font-face {
+    font-family: 'Oddval';
+    src: url('..assets/fonts/Oddval-SemiBold.eot');
+    src: url('..assets/fonts/Oddval-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('..assets/fonts/Oddval-SemiBold.woff2') format('woff2'),
+        url('..assets/fonts/Oddval-SemiBold.woff') format('woff'),
+        url('..assets/fonts/Oddval-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+hgroup {
+  gap: 1rem;
+  margin: 2.2rem auto 3.6rem;
+
+  h1 {
+    font-family: 'Oddival', sans-serif;
+    font-weight: 600;
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h2 {
+    font-weight: 700;
+    font-size: 1.5rem;
+    line-height: 2rem;
+  }
+}
+
+body > header {
+  .btn {
+    font-family: 'Oddival', sans-serif;
+    font-weight: 600;
+  }
+}
+
+
 .card {
   border-radius: 0.2rem; 
   & > img {
@@ -17,6 +57,7 @@
   & > div {
     gap: 0.25rem;
     margin-top: 1rem;
+    padding: 0rem;
     }
   }
   
