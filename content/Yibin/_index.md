@@ -1,7 +1,6 @@
 ---
 description: 
 title: Yibin
-weight: 6
+date: 2024-02-10
 menus: "main"
-# list pages require at least one image to be displayed.
 ---

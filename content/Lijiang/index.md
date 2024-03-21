@@ -1,9 +1,11 @@
 ---
 description: 
-featured_image: 
+featured_image: lijiang-03.jpeg
 keywords: [film]
 title: Lijiang
-weight: 4
+date: 2022-07-23
 menus: "main"
-# list pages require at least one image to be displayed.
+resources:
+  - src: lijiang-04.jpeg
+    title: Mufu Mansion, Lijiang Ancient Town
 ---
