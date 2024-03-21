@@ -24,7 +24,7 @@ title = "percassion"
   section = ["HTML"]
 
 [imaging]
-  quality = 100
+  quality = 99
   resampleFilter = "CatmullRom"
   [imaging.exif]
     disableDate = false

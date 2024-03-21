@@ -22,14 +22,14 @@
 }
 
 hgroup {
-  gap: 1rem;
+  gap: 0.6rem;
   margin: 2.2rem auto 3.6rem;
 
   h1 {
     font-family: "Oddval", sans-serif;
     font-weight: 600;
-    font-size: 1.875rem;
-    line-height: 2.25rem;
+    font-size: 2.125rem;
+    line-height: 3.25rem;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
   }
@@ -41,18 +41,10 @@ hgroup {
   }
 }
 
-body > header {
-  .btn {
-    font-family: "Oddval", sans-serif;
-    font-weight: 600;
-  }
-}
-
-
 .card {
-  border-radius: 0.2rem; 
+  border-radius: 0.33rem; 
   & > img {
-    border-radius: 0.2rem;
+    border-radius: 0.33rem;
     }
   & > div {
     gap: 0.25rem;
@@ -62,5 +54,5 @@ body > header {
   }
   
 .featured-card {
-  border-radius: 0.2rem;
+  border-radius: 0.33rem;
   }

@@ -2,26 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/chongqing/</loc>
-  </url><url>
-    <loc>https://example.org/chongqing/2023/</loc>
-  </url><url>
-    <loc>https://example.org/yibin/2022/</loc>
-  </url><url>
-    <loc>https://example.org/dali/</loc>
-  </url><url>
-    <loc>https://example.org/yibin/2024/</loc>
-  </url><url>
-    <loc>https://example.org/guilin/</loc>
-  </url><url>
-    <loc>https://example.org/lijiang/</loc>
-  </url><url>
-    <loc>https://example.org/shangri-la/</loc>
+    <loc>https://example.org/</loc>
+    <lastmod>2024-02-10T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://example.org/yibin/</loc>
+    <lastmod>2024-02-10T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://example.org/yibin/2024/</loc>
+    <lastmod>2024-02-10T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://example.org/chongqing/</loc>
+    <lastmod>2023-05-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://example.org/chongqing/2023/</loc>
+    <lastmod>2023-05-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://example.org/yibin/2022/</loc>
+    <lastmod>2022-08-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://example.org/shangri-la/</loc>
+    <lastmod>2022-07-25T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://example.org/lijiang/</loc>
+    <lastmod>2022-07-23T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://example.org/dali/</loc>
+    <lastmod>2022-07-20T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://example.org/guilin/</loc>
+    <lastmod>2022-07-16T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://example.org/chongqing/2022/</loc>
+    <lastmod>2022-05-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://example.org/chongqing/2021/</loc>
+    <lastmod>2021-05-01T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://example.org/about/</loc>
-  </url><url>
-    <loc>https://example.org/</loc>
   </url>
 </urlset>
