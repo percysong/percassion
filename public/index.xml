@@ -9,7 +9,43 @@
     <managingEditor>blog@percassion.com (percy &amp; cassie)</managingEditor>
     <webMaster>blog@percassion.com (percy &amp; cassie)</webMaster>
     <copyright>© percy &amp; cassie</copyright>
-    <lastBuildDate>Sat, 10 Feb 2024 00:00:00 +0100</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Jul 2024 00:00:00 +0200</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>婚</title>
+      <link>https://example.org/wedding/the-wedding/</link>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0200</pubDate><author>blog@percassion.com (percy &amp; cassie)</author>
+      <guid>https://example.org/wedding/the-wedding/</guid><media:content url="https://example.org/wedding/the-wedding/1-3-41_hud5384f6737c3d756ed59698b80777196_212057_900x600_fill_q99_catmullrom_smart1.jpeg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/wedding/the-wedding/1-3-41_hud5384f6737c3d756ed59698b80777196_212057_900x600_fill_q99_catmullrom_smart1.jpeg&quot; /&gt;
+          &lt;p&gt;a testimony for life&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>森</title>
+      <link>https://example.org/wedding/forest/</link>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0200</pubDate><author>blog@percassion.com (percy &amp; cassie)</author>
+      <guid>https://example.org/wedding/forest/</guid><media:content url="https://example.org/wedding/forest/1-2-46_hu2780073c07ec468e7e1d399193011dea_654440_900x600_fill_q99_catmullrom_smart1.jpeg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/wedding/forest/1-2-46_hu2780073c07ec468e7e1d399193011dea_654440_900x600_fill_q99_catmullrom_smart1.jpeg&quot; /&gt;
+          &lt;p&gt;to go deep in nature&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>營</title>
+      <link>https://example.org/wedding/camping/</link>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0200</pubDate><author>blog@percassion.com (percy &amp; cassie)</author>
+      <guid>https://example.org/wedding/camping/</guid><media:content url="https://example.org/wedding/camping/1-5-27_hu19d0ab79b5ed5b0b3c448dca94d1b98d_378245_900x600_fill_q99_catmullrom_smart1.jpeg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/wedding/camping/1-5-27_hu19d0ab79b5ed5b0b3c448dca94d1b98d_378245_900x600_fill_q99_catmullrom_smart1.jpeg&quot; /&gt;
+          &lt;p&gt;to see a wider world&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>雲</title>
+      <link>https://example.org/wedding/cloud/</link>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0200</pubDate><author>blog@percassion.com (percy &amp; cassie)</author>
+      <guid>https://example.org/wedding/cloud/</guid><media:content url="https://example.org/wedding/cloud/1-1-34_hu1e4706866e63918644222a919d8c9f27_805123_900x600_fill_q99_catmullrom_smart1.jpeg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/wedding/cloud/1-1-34_hu1e4706866e63918644222a919d8c9f27_805123_900x600_fill_q99_catmullrom_smart1.jpeg&quot; /&gt;
+          &lt;p&gt;up in the clouds we dream&lt;/p&gt;
+        </description></item>
     <item>
       <title>Yibin, Winter 2024</title>
       <link>https://example.org/yibin/2024/</link>
