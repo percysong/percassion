@@ -2,57 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2024-07-26T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/wedding/</loc>
+    <loc>https://example.org/wedding/ceremony/</loc>
     <lastmod>2024-07-26T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/wedding/the-wedding/</loc>
+    <loc>https://example.org/wedding/forest/</loc>
     <lastmod>2024-07-26T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/wedding/forest/</loc>
+    <loc>https://example.org/wedding/camping/</loc>
     <lastmod>2024-07-26T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/wedding/camping/</loc>
+    <loc>https://example.org/wedding/cloud/</loc>
     <lastmod>2024-07-26T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/wedding/cloud/</loc>
-    <lastmod>2024-07-26T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/yibin/</loc>
+    <loc>https://example.org/yibin/</loc>
     <lastmod>2024-02-10T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/yibin/2024/</loc>
+    <loc>https://example.org/yibin/2024/</loc>
     <lastmod>2024-02-10T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chongqing/</loc>
+    <loc>https://example.org/chongqing/</loc>
     <lastmod>2023-05-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chongqing/2023/</loc>
+    <loc>https://example.org/chongqing/2023/</loc>
     <lastmod>2023-05-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/yibin/2022/</loc>
+    <loc>https://example.org/yibin/2022/</loc>
     <lastmod>2022-08-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/shangri-la/</loc>
+    <loc>https://example.org/shangri-la/</loc>
     <lastmod>2022-07-25T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/lijiang/</loc>
+    <loc>https://example.org/lijiang/</loc>
     <lastmod>2022-07-23T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dali/</loc>
+    <loc>https://example.org/dali/</loc>
     <lastmod>2022-07-20T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/guilin/</loc>
+    <loc>https://example.org/guilin/</loc>
     <lastmod>2022-07-16T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chongqing/2022/</loc>
+    <loc>https://example.org/chongqing/2022/</loc>
     <lastmod>2022-05-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chongqing/2021/</loc>
+    <loc>https://example.org/chongqing/2021/</loc>
     <lastmod>2021-05-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://example.org/about/</loc>
   </url>
 </urlset>

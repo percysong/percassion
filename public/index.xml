@@ -2,129 +2,129 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>percassion</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on percassion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>blog@percassion.com (percy &amp; cassie)</managingEditor>
     <webMaster>blog@percassion.com (percy &amp; cassie)</webMaster>
     <copyright>© percy &amp; cassie</copyright>
-    <lastBuildDate>Fri, 26 Jul 2024 00:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Jul 2024 00:00:00 +0200</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>婚</title>
-      <link>http://localhost:1313/wedding/the-wedding/</link>
+      <link>https://example.org/wedding/ceremony/</link>
       <pubDate>Fri, 26 Jul 2024 00:00:00 +0200</pubDate><author>blog@percassion.com (percy &amp; cassie)</author>
-      <guid>http://localhost:1313/wedding/the-wedding/</guid><media:content url="http://localhost:1313/wedding/the-wedding/1-3-41_hud5384f6737c3d756ed59698b80777196_212057_900x600_fill_q99_catmullrom_smart1.jpeg" type="image/jpeg"/>
+      <guid>https://example.org/wedding/ceremony/</guid><media:content url="https://example.org/wedding/ceremony/1-3-41_hud5384f6737c3d756ed59698b80777196_212057_900x600_fill_q99_catmullrom_smart1.jpeg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/wedding/the-wedding/1-3-41_hud5384f6737c3d756ed59698b80777196_212057_900x600_fill_q99_catmullrom_smart1.jpeg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/wedding/ceremony/1-3-41_hud5384f6737c3d756ed59698b80777196_212057_900x600_fill_q99_catmullrom_smart1.jpeg&quot; /&gt;
           &lt;p&gt;a testimony for life&lt;/p&gt;
         </description></item>
     <item>
       <title>森</title>
-      <link>http://localhost:1313/wedding/forest/</link>
+      <link>https://example.org/wedding/forest/</link>
       <pubDate>Fri, 26 Jul 2024 00:00:00 +0200</pubDate><author>blog@percassion.com (percy &amp; cassie)</author>
-      <guid>http://localhost:1313/wedding/forest/</guid><media:content url="http://localhost:1313/wedding/forest/1-2-46_hu2780073c07ec468e7e1d399193011dea_654440_900x600_fill_q99_catmullrom_smart1.jpeg" type="image/jpeg"/>
+      <guid>https://example.org/wedding/forest/</guid><media:content url="https://example.org/wedding/forest/1-2-46_hu2780073c07ec468e7e1d399193011dea_654440_900x600_fill_q99_catmullrom_smart1.jpeg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/wedding/forest/1-2-46_hu2780073c07ec468e7e1d399193011dea_654440_900x600_fill_q99_catmullrom_smart1.jpeg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/wedding/forest/1-2-46_hu2780073c07ec468e7e1d399193011dea_654440_900x600_fill_q99_catmullrom_smart1.jpeg&quot; /&gt;
           &lt;p&gt;to go deep in nature&lt;/p&gt;
         </description></item>
     <item>
       <title>營</title>
-      <link>http://localhost:1313/wedding/camping/</link>
+      <link>https://example.org/wedding/camping/</link>
       <pubDate>Fri, 26 Jul 2024 00:00:00 +0200</pubDate><author>blog@percassion.com (percy &amp; cassie)</author>
-      <guid>http://localhost:1313/wedding/camping/</guid><media:content url="http://localhost:1313/wedding/camping/1-5-27_hu19d0ab79b5ed5b0b3c448dca94d1b98d_378245_900x600_fill_q99_catmullrom_smart1.jpeg" type="image/jpeg"/>
+      <guid>https://example.org/wedding/camping/</guid><media:content url="https://example.org/wedding/camping/1-5-27_hu19d0ab79b5ed5b0b3c448dca94d1b98d_378245_900x600_fill_q99_catmullrom_smart1.jpeg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/wedding/camping/1-5-27_hu19d0ab79b5ed5b0b3c448dca94d1b98d_378245_900x600_fill_q99_catmullrom_smart1.jpeg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/wedding/camping/1-5-27_hu19d0ab79b5ed5b0b3c448dca94d1b98d_378245_900x600_fill_q99_catmullrom_smart1.jpeg&quot; /&gt;
           &lt;p&gt;to see a wider world&lt;/p&gt;
         </description></item>
     <item>
       <title>雲</title>
-      <link>http://localhost:1313/wedding/cloud/</link>
+      <link>https://example.org/wedding/cloud/</link>
       <pubDate>Fri, 26 Jul 2024 00:00:00 +0200</pubDate><author>blog@percassion.com (percy &amp; cassie)</author>
-      <guid>http://localhost:1313/wedding/cloud/</guid><media:content url="http://localhost:1313/wedding/cloud/1-1-34_hu1e4706866e63918644222a919d8c9f27_805123_900x600_fill_q99_catmullrom_smart1.jpeg" type="image/jpeg"/>
+      <guid>https://example.org/wedding/cloud/</guid><media:content url="https://example.org/wedding/cloud/1-1-34_hu1e4706866e63918644222a919d8c9f27_805123_900x600_fill_q99_catmullrom_smart1.jpeg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/wedding/cloud/1-1-34_hu1e4706866e63918644222a919d8c9f27_805123_900x600_fill_q99_catmullrom_smart1.jpeg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/wedding/cloud/1-1-34_hu1e4706866e63918644222a919d8c9f27_805123_900x600_fill_q99_catmullrom_smart1.jpeg&quot; /&gt;
           &lt;p&gt;up in the clouds we dream&lt;/p&gt;
         </description></item>
     <item>
       <title>Yibin, Winter 2024</title>
-      <link>http://localhost:1313/yibin/2024/</link>
+      <link>https://example.org/yibin/2024/</link>
       <pubDate>Sat, 10 Feb 2024 00:00:00 +0100</pubDate><author>blog@percassion.com (percy &amp; cassie)</author>
-      <guid>http://localhost:1313/yibin/2024/</guid><media:content url="http://localhost:1313/yibin/2024/yibin-2024-03_hua04c227549212c9ea5acdf7017670162_979133_900x600_fill_q99_catmullrom_smart1.jpg" type="image/jpeg"/>
+      <guid>https://example.org/yibin/2024/</guid><media:content url="https://example.org/yibin/2024/yibin-2024-03_hua04c227549212c9ea5acdf7017670162_979133_900x600_fill_q99_catmullrom_smart1.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/yibin/2024/yibin-2024-03_hua04c227549212c9ea5acdf7017670162_979133_900x600_fill_q99_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/yibin/2024/yibin-2024-03_hua04c227549212c9ea5acdf7017670162_979133_900x600_fill_q99_catmullrom_smart1.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Chongqing 2023 B&amp;W</title>
-      <link>http://localhost:1313/chongqing/2023/</link>
+      <link>https://example.org/chongqing/2023/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0200</pubDate><author>blog@percassion.com (percy &amp; cassie)</author>
-      <guid>http://localhost:1313/chongqing/2023/</guid><media:content url="http://localhost:1313/chongqing/2023/chongqing-2023-bw-21_hu097dd4d6fe679b68a08661165ad1b785_289455_900x600_fill_q99_catmullrom_smart1.jpg" type="image/jpeg"/>
+      <guid>https://example.org/chongqing/2023/</guid><media:content url="https://example.org/chongqing/2023/chongqing-2023-bw-21_hu097dd4d6fe679b68a08661165ad1b785_289455_900x600_fill_q99_catmullrom_smart1.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/chongqing/2023/chongqing-2023-bw-21_hu097dd4d6fe679b68a08661165ad1b785_289455_900x600_fill_q99_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/chongqing/2023/chongqing-2023-bw-21_hu097dd4d6fe679b68a08661165ad1b785_289455_900x600_fill_q99_catmullrom_smart1.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Yibin, Summer 2022</title>
-      <link>http://localhost:1313/yibin/2022/</link>
+      <link>https://example.org/yibin/2022/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0200</pubDate><author>blog@percassion.com (percy &amp; cassie)</author>
-      <guid>http://localhost:1313/yibin/2022/</guid><media:content url="http://localhost:1313/yibin/2022/yibin-2022-02_hu8adea3f509b5cf93caad6f802236434f_380497_900x600_fill_q99_catmullrom_smart1.jpeg" type="image/jpeg"/>
+      <guid>https://example.org/yibin/2022/</guid><media:content url="https://example.org/yibin/2022/yibin-2022-02_hu8adea3f509b5cf93caad6f802236434f_380497_900x600_fill_q99_catmullrom_smart1.jpeg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/yibin/2022/yibin-2022-02_hu8adea3f509b5cf93caad6f802236434f_380497_900x600_fill_q99_catmullrom_smart1.jpeg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/yibin/2022/yibin-2022-02_hu8adea3f509b5cf93caad6f802236434f_380497_900x600_fill_q99_catmullrom_smart1.jpeg&quot; /&gt;
           &lt;p&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Shangri-La</title>
-      <link>http://localhost:1313/shangri-la/</link>
+      <link>https://example.org/shangri-la/</link>
       <pubDate>Mon, 25 Jul 2022 00:00:00 +0200</pubDate><author>blog@percassion.com (percy &amp; cassie)</author>
-      <guid>http://localhost:1313/shangri-la/</guid><media:content url="http://localhost:1313/shangri-la/shangri-la-01_hu9b711c9dfc404a3e516a0e36c8adb904_404645_900x600_fill_q99_catmullrom_smart1.jpeg" type="image/jpeg"/>
+      <guid>https://example.org/shangri-la/</guid><media:content url="https://example.org/shangri-la/shangri-la-01_hu9b711c9dfc404a3e516a0e36c8adb904_404645_900x600_fill_q99_catmullrom_smart1.jpeg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/shangri-la/shangri-la-01_hu9b711c9dfc404a3e516a0e36c8adb904_404645_900x600_fill_q99_catmullrom_smart1.jpeg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/shangri-la/shangri-la-01_hu9b711c9dfc404a3e516a0e36c8adb904_404645_900x600_fill_q99_catmullrom_smart1.jpeg&quot; /&gt;
           &lt;p&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Lijiang</title>
-      <link>http://localhost:1313/lijiang/</link>
+      <link>https://example.org/lijiang/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0200</pubDate><author>blog@percassion.com (percy &amp; cassie)</author>
-      <guid>http://localhost:1313/lijiang/</guid><media:content url="http://localhost:1313/lijiang/lijiang-03_hub2bad8dd083144daa4c7adbe7477c2cd_461260_900x600_fill_q99_catmullrom_smart1.jpeg" type="image/jpeg"/>
+      <guid>https://example.org/lijiang/</guid><media:content url="https://example.org/lijiang/lijiang-03_hub2bad8dd083144daa4c7adbe7477c2cd_461260_900x600_fill_q99_catmullrom_smart1.jpeg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/lijiang/lijiang-03_hub2bad8dd083144daa4c7adbe7477c2cd_461260_900x600_fill_q99_catmullrom_smart1.jpeg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/lijiang/lijiang-03_hub2bad8dd083144daa4c7adbe7477c2cd_461260_900x600_fill_q99_catmullrom_smart1.jpeg&quot; /&gt;
           &lt;p&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Dallit</title>
-      <link>http://localhost:1313/dali/</link>
+      <link>https://example.org/dali/</link>
       <pubDate>Wed, 20 Jul 2022 00:00:00 +0200</pubDate><author>blog@percassion.com (percy &amp; cassie)</author>
-      <guid>http://localhost:1313/dali/</guid><media:content url="http://localhost:1313/dali/dali-01_hu9e5c3115181899b948b61192cc472689_346497_900x600_fill_q99_catmullrom_smart1.jpeg" type="image/jpeg"/>
+      <guid>https://example.org/dali/</guid><media:content url="https://example.org/dali/dali-01_hu9e5c3115181899b948b61192cc472689_346497_900x600_fill_q99_catmullrom_smart1.jpeg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/dali/dali-01_hu9e5c3115181899b948b61192cc472689_346497_900x600_fill_q99_catmullrom_smart1.jpeg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/dali/dali-01_hu9e5c3115181899b948b61192cc472689_346497_900x600_fill_q99_catmullrom_smart1.jpeg&quot; /&gt;
           &lt;p&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Guilin</title>
-      <link>http://localhost:1313/guilin/</link>
+      <link>https://example.org/guilin/</link>
       <pubDate>Sat, 16 Jul 2022 00:00:00 +0200</pubDate><author>blog@percassion.com (percy &amp; cassie)</author>
-      <guid>http://localhost:1313/guilin/</guid><media:content url="http://localhost:1313/guilin/guilin-12_hu6c7e6b5f1a68cfb85f5e1ccf2edc1394_430359_900x600_fill_q99_catmullrom_smart1.jpeg" type="image/jpeg"/>
+      <guid>https://example.org/guilin/</guid><media:content url="https://example.org/guilin/guilin-12_hu6c7e6b5f1a68cfb85f5e1ccf2edc1394_430359_900x600_fill_q99_catmullrom_smart1.jpeg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/guilin/guilin-12_hu6c7e6b5f1a68cfb85f5e1ccf2edc1394_430359_900x600_fill_q99_catmullrom_smart1.jpeg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/guilin/guilin-12_hu6c7e6b5f1a68cfb85f5e1ccf2edc1394_430359_900x600_fill_q99_catmullrom_smart1.jpeg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Chongqing 2022</title>
-      <link>http://localhost:1313/chongqing/2022/</link>
+      <link>https://example.org/chongqing/2022/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0200</pubDate><author>blog@percassion.com (percy &amp; cassie)</author>
-      <guid>http://localhost:1313/chongqing/2022/</guid><media:content url="http://localhost:1313/chongqing/2022/chongqing-2022-10_hud0291be447c989635c5aa76f0ec9572a_132447_900x600_fill_q99_catmullrom_smart1.jpg" type="image/jpeg"/>
+      <guid>https://example.org/chongqing/2022/</guid><media:content url="https://example.org/chongqing/2022/chongqing-2022-10_hud0291be447c989635c5aa76f0ec9572a_132447_900x600_fill_q99_catmullrom_smart1.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/chongqing/2022/chongqing-2022-10_hud0291be447c989635c5aa76f0ec9572a_132447_900x600_fill_q99_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/chongqing/2022/chongqing-2022-10_hud0291be447c989635c5aa76f0ec9572a_132447_900x600_fill_q99_catmullrom_smart1.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Chongqing 2021</title>
-      <link>http://localhost:1313/chongqing/2021/</link>
+      <link>https://example.org/chongqing/2021/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0200</pubDate><author>blog@percassion.com (percy &amp; cassie)</author>
-      <guid>http://localhost:1313/chongqing/2021/</guid><media:content url="http://localhost:1313/chongqing/2021/chongqing-2021-12_hu1062c25c1929cd48e07551677eb8d613_160411_900x600_fill_q99_catmullrom_smart1.jpg" type="image/jpeg"/>
+      <guid>https://example.org/chongqing/2021/</guid><media:content url="https://example.org/chongqing/2021/chongqing-2021-12_hu1062c25c1929cd48e07551677eb8d613_160411_900x600_fill_q99_catmullrom_smart1.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/chongqing/2021/chongqing-2021-12_hu1062c25c1929cd48e07551677eb8d613_160411_900x600_fill_q99_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/chongqing/2021/chongqing-2021-12_hu1062c25c1929cd48e07551677eb8d613_160411_900x600_fill_q99_catmullrom_smart1.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>

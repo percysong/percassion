@@ -1,5 +1,3 @@
-module github.com/percysong/percassion
+module github.com/nicokaiser/hugo-theme-gallery/v4
 
-go 1.21.3
-
-require github.com/nicokaiser/hugo-theme-gallery/v4 v4.0.2 // indirect
+go 1.20
