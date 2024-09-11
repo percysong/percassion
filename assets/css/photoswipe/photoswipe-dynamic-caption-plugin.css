@@ -1,5 +1,5 @@
 .pswp__dynamic-caption {
-  color: #f8f9fa;
+  color: #fff;
   position: absolute;
   width: 100%;
   left: 0;
@@ -12,12 +12,7 @@
 }
 
 .pswp__dynamic-caption a {
-  color: #868e96;
-  text-decoration: underline;
-    &:hover,
-    &[aria-current="true"] {
-      color: #f8f9fa;
-      }
+  color: #fff;
 }
 
 .pswp__dynamic-caption--faded {

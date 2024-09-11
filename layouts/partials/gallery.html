@@ -1,9 +1,11 @@
 <section class="gallery">
   <div id="gallery" style="visibility: hidden; height: 1px; overflow: hidden">
     {{ $images := slice }}
-    {{ range $image :=  .Resources.ByType "image" }}
+    {{ range $image := .Resources.ByType "image" }}
       {{ $title := "" }}
+      {{ $date := "" }}
       {{ with $image.Exif }}
+        {{ $date = .Date }}
         {{ with .Tags.ImageDescription }}
           {{/* Title from EXIF ImageDescription */}}
           {{ $title = . }}
@@ -16,6 +18,7 @@
       {{ $images = $images | append (dict
         "Name" $image.Name
         "Title" $title
+        "Date" $date
         "image" $image
         )
       }}
@@ -23,10 +26,12 @@
     {{ range sort $images (.Params.sort_by | default "Name") (.Params.sort_order | default "asc") }}
       {{ $image := .image }}
       {{ $thumbnail := $image.Filter (slice images.AutoOrient (images.Process "fit 600x600")) }}
-      {{ $full := .image }}
+      {{ $full := $image.Filter (slice images.AutoOrient (images.Process "fit 1600x1600")) }}
       {{ $color := index $thumbnail.Colors 0 | default "transparent" }}
       <a class="gallery-item" href="{{ $image.RelPermalink }}" data-pswp-src="{{ $full.RelPermalink }}" data-pswp-width="{{ $full.Width }}" data-pswp-height="{{ $full.Height }}" title="{{ .Title }}" itemscope itemtype="https://schema.org/ImageObject" style="aspect-ratio: {{ $thumbnail.Width }} / {{ $thumbnail.Height }}">
-        <img loading="lazy" width="{{ $thumbnail.Width }}" height="{{ $thumbnail.Height }}" src="{{ $thumbnail.RelPermalink }}" style="background-color: {{ $color }}" alt="{{ .Title }}" />
+        <figure style="background-color: {{ $color }}; aspect-ratio: {{ $thumbnail.Width }} / {{ $thumbnail.Height }}">
+          <img class="lazyload" width="{{ $thumbnail.Width }}" height="{{ $thumbnail.Height }}" data-src="{{ $thumbnail.RelPermalink }}" alt="{{ .Title }}" />
+        </figure>
         <meta itemprop="contentUrl" content="{{ $image.RelPermalink }}" />
         {{ with site.Params.Author }}
           <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
