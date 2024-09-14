@@ -1,6 +1,6 @@
 ---
 description: a marriage and the marriage of percy and cassie
-title: Wedding
+title: Our Wedding
 featured: true
 private: true
 featured_image: wedding.jpeg
