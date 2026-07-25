@@ -1,0 +1,6 @@
+# Hugo build output and image-processing cache (recreated by `hugo`)
+/public/
+/resources/_gen/
+
+# macOS Finder metadata
+.DS_Store
